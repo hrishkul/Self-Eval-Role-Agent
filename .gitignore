@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+*.egg-info/
+
+# Gradio launch logs
+gradio_cached_examples/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# MacOS junk
+.DS_Store
+
+# dotenv
+.env
+
+# PDF/Resume files (optional)
+resume.pdf
+summary.txt
+
+# VSCode settings (optional)
+.vscode/
