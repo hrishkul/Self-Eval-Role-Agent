@@ -1,2 +1,2 @@
 ## Self-Evaluating Role Agent
-Self-Eval Role Agent is a personal Q&A assistant designed to represent you professionally on your website. It uses your resume(or LinkedIn) and summary to respond to visitor questions about your background, projects, and experience. After each answer, a separate evaluator checks the quality of the response. If the answer isn’t good enough, the chatbot updates and tries again — creating a feedback-driven, polished conversation flow.
+A chatbot application built with the OpenAI SDK that uses a resume and summary to answer questions about a person’s background, projects, and experience. Each response is evaluated by a second model for quality, and revised automatically if necessary.
