@@ -5,6 +5,4 @@ A chatbot application built directly with OpenAI's models(gpt-4o-mini and gpt-4.
 
 <img width="991" height="499" alt="Screenshot 2025-07-10 at 10 46 00 PM" src="https://github.com/user-attachments/assets/ac57114a-800c-42cc-848b-88a5dd7634a3" />
 
-# chatbot
-personal chatbot built using OpenAI Agents SDK
 
