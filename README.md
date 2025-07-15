@@ -1,4 +1,4 @@
-##AI Agent for Personal Website
+## AI Agent for Personal Website
 A minimal personal AI assistant that represents you on your website, answers career-related questions based on your resume and summary, and ensures quality responses using built-in self-evaluation. It also sends real-time push notifications for user interest and unknown queries.
 
 Key Features
